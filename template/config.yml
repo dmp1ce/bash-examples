@@ -1,0 +1,5 @@
+config:
+  foo: %foo%
+  current_dir: %current_dir%
+
+# vi: set tabstop=2 expandtab :
